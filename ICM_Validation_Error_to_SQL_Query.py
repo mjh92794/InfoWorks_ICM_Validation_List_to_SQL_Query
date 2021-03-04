@@ -1,4 +1,5 @@
-#requires python 2
+#!"C:\Python27\ArcGIS10.7\python.exe"
+#requires ArcGIS python 2
 
 import pandas as pd
 try:
